@@ -10,7 +10,7 @@
  */
 public class Principal {
     public static void main(String[] args) {
-        System.out.println("hola por  Javier");
+        System.out.println("hola por  Javier Alcoser");
         System.out.println("Hola por Sebastian");
         System.out.println("prueba2 por sebastian");
         System.out.println("Hola mundo SantamariaDiego");
