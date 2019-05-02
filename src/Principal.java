@@ -15,6 +15,7 @@ public class Principal {
         System.out.println("prueba2 por sebastian");
         System.out.println("Hola mundo SantamariaDiego");
         System.out.println("Hola Michelle");
+        
     }
-    
+    public void Catucuago(){}
 }
